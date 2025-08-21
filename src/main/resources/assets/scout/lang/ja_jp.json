@@ -5,9 +5,9 @@
     "tanned_leather": "なめし革",
     "satchel_strap": "サッチェルのストラップ",
     "satchel": "サッチェルバッグ",
-    "upgraded_satchel": "アップグレードサッチェルバッグ",
+    "upgraded_satchel": "拡張サッチェルバッグ",
     "pouch": "ポーチ",
-    "upgraded_pouch": "アップグレードポーチ"
+    "upgraded_pouch": "拡張ポーチ"
   },
   "trinkets.slot.legs.pouch": "ポーチ",
   "tooltip.scout.slots": "{} 個のアイテムを収納可能"
